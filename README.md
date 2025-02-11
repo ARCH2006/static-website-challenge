@@ -1,4 +1,4 @@
-# static-website-challenge
+# static-website
 
 ## Description
 Welcome to the Static Website Challenge! This project is a beautifully designed static website that showcases a variety of services, including graphic design and animation. The website features a modern and responsive layout
